@@ -1,0 +1,35 @@
+development:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: amarsaj_development
+  pool:     5
+  username: postgres
+  password: postgres
+
+test:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: amarsaj_test
+  pool:     5
+  username: postgres
+  password: postgres
+
+staging:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: amarsaj_staging
+  pool:     5
+  username: postgres
+  password: postgres
+
+staging:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: amarsaj_production
+  pool:     5
+  username: postgres
+  password: postgres

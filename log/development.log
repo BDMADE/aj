@@ -1,0 +1,17 @@
+Started GET "/" for 127.0.0.1 at 2019-04-10 12:56:29 +0600
+
+PG::ConnectionBad - FATAL:  Peer authentication failed for user "root"
+:
+
+Started POST "/__better_errors/b22a3b1d76d7c8f8/variables" for 127.0.0.1 at 2019-04-10 12:56:30 +0600
+  [1m[35m (1178.0ms)[0m  [1m[35mCREATE DATABASE "amarsaj_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (563.5ms)[0m  [1m[35mCREATE DATABASE "amarsaj_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+Started GET "/" for 127.0.0.1 at 2019-04-10 12:59:55 +0600
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/hmtanbir/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/hmtanbir/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (28.7ms)
+Completed 200 OK in 89ms (Views: 75.2ms | ActiveRecord: 0.0ms)
+
+
