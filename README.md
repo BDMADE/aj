@@ -1,4 +1,4 @@
-# amarsaj
+# Demo rails app (AJ#007)
 This is a simple rails application for testing purpose.
 This project is powered by Ruby on rails.
 
