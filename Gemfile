@@ -96,3 +96,7 @@ gem 'spree_gateway', '~> 3.4'
 #spree gem insight install
 gem 'spree_events_tracker', github: 'vinsol-spree-contrib/spree_events_tracker', branch: 'master'
 gem 'spree_admin_insights', git: 'https://github.com/vinsol-spree-contrib/spree-admin-insights', branch: 'master'
+
+#spree i18 install
+gem 'spree_i18n', github: 'spree-contrib/spree_i18n'
+gem 'spree_globalize', github: 'spree-contrib/spree_globalize'

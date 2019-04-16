@@ -11,3 +11,5 @@
 //= require_tree .
 //= require spree/backend/spree_events_tracker
 //= require spree/backend/spree_admin_insights
+//= require spree/backend/spree_i18n
+//= require spree/backend/spree_globalize
